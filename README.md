@@ -85,6 +85,7 @@ return 0;
 ```
 ## OUTPUT:
 
+![image](https://github.com/Archanashanmugam/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/119291338/e9ddf08c-b7b4-46ee-8c80-f29320771882)
 
 
 ## RESULT :
@@ -162,11 +163,8 @@ Base64.getEncoder().encodeToString(cipher.doFinal(strToEncrypt.getBytes("UTF-8")
  }
 }
    ## OUTPUT:
-URL Encryption Using AES Algorithm
--------------------------------------------------
-Original URL : www.annauniv.edu
-Encrypted URL : vibpFJW6Cvs5Y+L7t4N6YWWe07+JzS1d3CU2h3mEvEg=
-Decrypted URL : www.annauniv.edu
+![image](https://github.com/Archanashanmugam/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/119291338/4eea2f15-7330-47a9-becc-7082db570d00)
+
 
 ## RESULT:
 
@@ -290,7 +288,8 @@ print("decrypted string: ", decMessage)
 ```
 ## OUTPUT:
 
-<img width="756" alt="image" src="https://github.com/AlluguriSrikrishnateja/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/118343892/23e74c08-7cea-4381-b9fe-97e247b17470">
+![image](https://github.com/Archanashanmugam/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/119291338/e5b79963-ad16-44b6-ad26-859d360c87b0)
+
 
 ## RESULT:
 
