@@ -163,8 +163,7 @@ Base64.getEncoder().encodeToString(cipher.doFinal(strToEncrypt.getBytes("UTF-8")
  }
 }
    ## OUTPUT:
-![image](https://github.com/Archanashanmugam/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/119291338/4eea2f15-7330-47a9-becc-7082db570d00)
-
+![image](https://github.com/Archanashanmugam/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/119291338/ea5a68be-9f69-48c3-9dee-3a1816603c98)
 
 ## RESULT:
 
@@ -239,9 +238,7 @@ return 0;
 }
 ```
 ## OUTPUT:
-
-<img width="342" alt="image" src="https://github.com/AlluguriSrikrishnateja/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/118343892/a3f5b0fa-ef81-4215-9521-2a16c87cef68">
-
+![image](https://github.com/Archanashanmugam/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/119291338/bcd7f7b9-d492-4e73-bc1e-129120239600)
 
 ## RESULT: 
 
@@ -288,7 +285,7 @@ print("decrypted string: ", decMessage)
 ```
 ## OUTPUT:
 
-![image](https://github.com/Archanashanmugam/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/119291338/e5b79963-ad16-44b6-ad26-859d360c87b0)
+![image](https://github.com/Archanashanmugam/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/119291338/6125e30c-46a9-4bde-bb63-f2a6d68631b9)
 
 
 ## RESULT:
